@@ -1,0 +1,44 @@
+.container {
+    width: 1016px;
+    margin: 0 auto;
+}
+.box{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: #FBFBFB;
+    width: 200px;
+    text-align: center;
+    color: #8a8a8a;
+    padding: 10px;
+}
+
+.box1{
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: white;
+    width: 200px;
+    text-align: center;
+    color: #CED4E3;
+    padding: 10px;
+}
+
+h1{
+    box-sizing: border-box;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+h2{
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 20px;   
+}
+
+h3{
+    box-sizing: border-box;
+    font-family: 'Asap', sans-serif;
+    font-size: 13px;
+    margin-bottom: 0;
+}
+p{
+    margin-top: 10px;
+}
